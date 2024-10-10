@@ -3,9 +3,9 @@ Coursera learning https://www.coursera.org/learn/getting-started-with-git-and-gi
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
-Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-Output
-   simple interest = p*t*r
+## Input:
+- [x] p, principal amount
+- [x] t, time period in years
+- [x] r, annual rate of interest
+## Output:
+```simple interest = p*t*r```
